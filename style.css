@@ -1,0 +1,17 @@
+#title {
+  background-image: url('./title-image.png'); /* Replace with your image path */
+  background-size: cover; /* Makes the image cover the entire section */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  color: white; /* Ensures text is readable */
+  padding: 60px 0; /* Adds space around the content */
+}
+
+
+.profile-img {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  
+}
